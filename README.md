@@ -150,7 +150,7 @@ Estudante de Ciência de Dados — Universidade Federal do Ceará (UFC)
 
 🔗 GitHub: "@Davyeeh" (https://github.com/marcos74mv)
 
-Julio Gabriel de Alencar
+Julio Gabriel Alves de Aguiar
 
 Estudante de Ciência de Dados — Universidade Federal do Ceará (UFC)
 
