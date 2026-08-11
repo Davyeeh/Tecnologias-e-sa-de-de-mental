@@ -99,10 +99,10 @@ Desenvolvimento e versionamento
 Tecnologias-e-sa-de-de-mental/
 │
 ├── TrabalhoFinal_LAB_C_D_.ipynb   # Notebook com a análise do projeto
-├── dashboard.py                   # Aplicação do dashboard\\
-├── dados_corrigidos (1).csv       # Base de dados utilizada no dashboard\\
-├── survey.csv                     # Dados da pesquisa\\
-└── README.md                      # Documentação do projeto\\
+├── dashboard.py                   # Aplicação do dashboard
+├── dados_corrigidos (1).csv       # Base de dados utilizada no dashboard
+├── survey.csv                     # Dados da pesquisa
+└── README.md                      # Documentação do projeto
 
 ---
 
@@ -133,6 +133,36 @@ O Streamlit iniciará o dashboard localmente no navegador.
 Projeto desenvolvido no contexto da formação em Ciência de Dados na Universidade Federal do Ceará (UFC).
 
 O trabalho envolve etapas de exploração e visualização de dados, utilizando Python para transformar dados de pesquisa em informações que possam ser analisadas de maneira mais clara e interativa.
+
+---
+
+## 👨‍💻 Autores
+
+Davi da Silva Araújo
+
+Estudante de Ciência de Dados — Universidade Federal do Ceará (UFC)
+
+🔗 GitHub: "@Davyeeh" (https://github.com/Davyeeh)
+
+Davi da Silva Araújo
+
+Estudante de Ciência de Dados — Universidade Federal do Ceará (UFC)
+
+🔗 GitHub: "@Davyeeh" (https://github.com/marcos74mv)
+
+Davi da Silva Araújo
+
+Estudante de Ciência de Dados — Universidade Federal do Ceará (UFC)
+
+🔗 GitHub: "@Davyeeh" (https://github.com/julioaguiar07)
+
+Davi da Silva Araújo
+
+Estudante de Ciência de Dados — Universidade Federal do Ceará (UFC)
+
+🔗 GitHub: "@Davyeeh" (https://github.com/alisonauta)
+
+
 
 ---
 
