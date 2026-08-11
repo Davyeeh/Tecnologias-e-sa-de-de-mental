@@ -144,19 +144,19 @@ Estudante de Ciência de Dados — Universidade Federal do Ceará (UFC)
 
 🔗 GitHub: "@Davyeeh" (https://github.com/Davyeeh)
 
-Davi da Silva Araújo
+Marcos Vinicius 
 
 Estudante de Ciência de Dados — Universidade Federal do Ceará (UFC)
 
 🔗 GitHub: "@Davyeeh" (https://github.com/marcos74mv)
 
-Davi da Silva Araújo
+Julio Gabriel de Alencar
 
 Estudante de Ciência de Dados — Universidade Federal do Ceará (UFC)
 
 🔗 GitHub: "@Davyeeh" (https://github.com/julioaguiar07)
 
-Davi da Silva Araújo
+Alison
 
 Estudante de Ciência de Dados — Universidade Federal do Ceará (UFC)
 
