@@ -8,7 +8,7 @@ O projeto foi desenvolvido como parte da formação em Ciência de Dados na Univ
 
 O projeto conta com um dashboard interativo desenvolvido em Streamlit, permitindo explorar os dados por diferentes filtros e visualizar informações relacionadas à saúde mental no ambiente profissional.
 
-🔗 "Acessar o Dashboard" (https://saude-tecnologia-ufc.streamlit.app/)
+🔗 [Acessar o Dashboard](https://saude-tecnologia-ufc.streamlit.app/)
 
 O dashboard permite filtrar os dados por:
 
@@ -142,25 +142,25 @@ Davi da Silva Araújo
 
 Estudante de Ciência de Dados — Universidade Federal do Ceará (UFC)
 
-🔗 GitHub: "@Davyeeh" (https://github.com/Davyeeh)
+🔗 GitHub: [@Davyeeh](https://github.com/Davyeeh)
 
 Marcos Vinicius 
 
 Estudante de Ciência de Dados — Universidade Federal do Ceará (UFC)
 
-🔗 GitHub: "@Davyeeh" (https://github.com/marcos74mv)
+🔗 GitHub: [@marcos74mv](https://github.com/marcos74mv)
 
 Julio Gabriel Alves de Aguiar
 
 Estudante de Ciência de Dados — Universidade Federal do Ceará (UFC)
 
-🔗 GitHub: "@Davyeeh" (https://github.com/julioaguiar07)
+🔗 GitHub: [@julioaguiar07](https://github.com/julioaguiar07)
 
 Alison
 
 Estudante de Ciência de Dados — Universidade Federal do Ceará (UFC)
 
-🔗 GitHub: "@Davyeeh" (https://github.com/alisonauta)
+🔗 GitHub: [@alisonauta](https://github.com/alisonauta)
 
 
 
