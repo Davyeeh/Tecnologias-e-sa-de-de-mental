@@ -96,14 +96,14 @@ Desenvolvimento e versionamento
 
 ## 📁 Estrutura do projeto
 
-Tecnologias-e-sa-de-de-mental/
+```Tecnologias-e-sa-de-de-mental/
 │
 ├── TrabalhoFinal_LAB_C_D_.ipynb   # Notebook com a análise do projeto
 ├── dashboard.py                   # Aplicação do dashboard
 ├── dados_corrigidos (1).csv       # Base de dados utilizada no dashboard
 ├── survey.csv                     # Dados da pesquisa
 └── README.md                      # Documentação do projeto
-
+```
 ---
 
 ## 🚀 Como executar o projeto
